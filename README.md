@@ -1,1 +1,1 @@
-# CSC12-LW4_Improving_CNN_Perfomance
+# CSC120-LW4_Improving_CNN_Perfomance
