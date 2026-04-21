@@ -1,6 +1,6 @@
 # CSC120-LW4_Improving_CNN_Perfomance
 
-Then LW4 Continue in LW3 Google Colab : https://colab.research.google.com/drive/1y0sOitPAqN0aJBKZFxla2o-NOSqXpsa0?usp=sharing
+LW4 Google Colab : https://colab.research.google.com/drive/1T5NyD-n98fMS2kIufe8xvDApygexRbxq?usp=sharing
 
 
 
