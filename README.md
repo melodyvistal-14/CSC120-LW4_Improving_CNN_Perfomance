@@ -6,6 +6,8 @@ Activity 1: Evaluation Metrics + Visualization : https://colab.research.google.c
 
 Activity 2: Model Interpretability usingGradient-weighted Class Activation Mapping(Grad-CAM) -                                                      https://colab.research.google.com/drive/1es1-lk-20cRei0rBSqbISdcqRxCzGNtw?usp=sharing
 
+Activity 3: Model Enhancement and Performance Optimization | Improving CNN Performance Using Regularization, Fine-Tuning, and Advanced Evaluation :
+https://colab.research.google.com/drive/16JzNwp4hO_7i0fr81Zb6xi-Hn3eMNeBV?usp=sharing
 
 
 
