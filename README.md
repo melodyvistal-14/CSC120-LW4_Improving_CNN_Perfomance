@@ -1,6 +1,9 @@
 # CSC120-LW4_Improving_CNN_Perfomance
 
-LW4 Google Colab : https://colab.research.google.com/drive/1T5NyD-n98fMS2kIufe8xvDApygexRbxq?usp=sharing
+LW4 Google Colab : 
+Activity 1: Evaluation Metrics + Visualization : https://colab.research.google.com/drive/1MpS0lRJGOhateF7rpXbzqhNKkMx-cYD_?usp=sharing
+
+
 
 
 
